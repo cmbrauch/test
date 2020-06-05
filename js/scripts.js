@@ -4,40 +4,40 @@ $(document).ready(function() {
         
 
     if (horrorscope === "aries") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.1");
+        $("#output").text("Based on your responses, it looks as if you would excell at Ruby!");
 
     } else if (horrorscope === "taurus") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.2");
+        $("#output").text("Based on your responses, it looks as if you would excell at C Sharp!");
 
     } else if (horrorscope === "gemini") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.3");
+        $("#output").text("Based on your responses, it looks as if you would excell at Javascript!");
 
     } else if (horrorscope === "cancer") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.4");
+        $("#output").text("Based on your responses, it looks as if you would excell at Go!");
 
     } else if (horrorscope === "leo") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.5");
+        $("#output").text("Based on your responses, it looks as if you would excell at Python!");
 
     } else if (horrorscope === "virgo") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.6");
+        $("#output").text("Based on your responses, it looks as if you would excell at Rust!");
 
     } else if (horrorscope === "libra") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.7");
+        $("#output").text("Based on your responses, it looks as if you would excell at Swift!");
 
     } else if (horrorscope === "scorpio") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.8");
+        $("#output").text("Based on your responses, it looks as if you would excell at Go!");
 
     } else if (horrorscope === "sagittarius") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.9");
+        $("#output").text("Based on your responses, it looks as if you would excell at Javascript!");
 
     } else if (horrorscope === "capricorn") {
-        $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.10");
+        $("#output").text("Based on your responses, it looks as if you would excell at C Sharp!");
         
     } else if (horrorscope === "aquarius") {
-            $("#output").text("It sounds like you enjoy lovely weather! Coding may not be for you.11");
+            $("#output").text("Based on your responses, it looks as if you would excell at Ruby!");
 
     } else {
-        $("#output").text("Coding is probably right up your alley. I would begin with Python!");
+        $("#output").text("Based on your responses, it looks as if you would excell at Python!");
         }
         event.preventDefault();
     });
